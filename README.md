@@ -1,6 +1,8 @@
 # Bot Discord Franky
 
-[TOC]
+[Bot Discord Franky](#Bot Discord Franky)
+
+***
 
 ## Commandes disponibles
 
