@@ -1,6 +1,6 @@
 # Bot Discord Franky
 
-- [Bot Discord Franky](#Bot Discord Franky)
+- [Bot Discord Franky](#bot-discord-franky)
 
 ***
 
