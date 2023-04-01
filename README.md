@@ -2,7 +2,12 @@
 
 <img src="https://media.tenor.com/0Y_xLi0iSTwAAAAC/one-piece-franky.gif">
 
+Franky est un bot discord inspiré du même personnage de l'univers de One Piece. Vous pouvez utilisé des commandes et il réagira également à certains de vos messages.
+
+# Tableau de bord
+
 - [Bot Discord Franky](#bot-discord-franky)
+- [Tableau de bord](#tableau-de-bord)
   - [Commandes disponibles](#commandes-disponibles)
     - [/help](#help)
     - [/ping](#ping)
