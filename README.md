@@ -24,8 +24,6 @@ Franky est un bot discord inspiré du même personnage de l'univers de One Piece
   - [Autres fonctionnalités disponibles](#autres-fonctionnalités-disponibles)
   - [Ajouter le bot à votre serveur](#ajouter-le-bot-à-votre-serveur)
 
-***
-
 ## Commandes disponibles
 
 ### /help
@@ -119,8 +117,6 @@ Paramètres :
 
 * `<number>` : int (nombre réel)
   * Le nombre de messages à supprimer (max 100)
-
-***
 
 ## Autres fonctionnalités disponibles
 
