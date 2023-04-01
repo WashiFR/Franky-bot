@@ -1,6 +1,6 @@
 # Bot Discord Franky
 
-<img src="https://tenor.com/fr/view/one-piece-franky-franky-one-piece-gif-24670930">
+<img src="https://media.tenor.com/0Y_xLi0iSTwAAAAC/one-piece-franky.gif">
 
 - [Bot Discord Franky](#bot-discord-franky)
   - [Commandes disponibles](#commandes-disponibles)
