@@ -22,7 +22,6 @@ Franky est un bot discord inspiré du même personnage de l'univers de One Piece
     - [/maths](#maths)
     - [/clear](#clear)
   - [Autres fonctionnalités disponibles](#autres-fonctionnalités-disponibles)
-  - [Ajouter le bot à votre serveur](#ajouter-le-bot-à-votre-serveur)
 
 ## Commandes disponibles
 
@@ -125,7 +124,3 @@ Le bot réagit  lorsque certains mots sont écrits dans les messages par les uti
 * `quoi` -> le bot enverra un gif `feur` aléatoire (peut être désactiver avec la commande [/quoi](#quoi)).
 * `super` -> le bot enverra un gif de Franky faisant sa célèbre pose.
 * `obsédé` -> le bot demandera si on parle de lui, comme dans œuvre. 
-
-## Ajouter le bot à votre serveur
-
-https://discord.com/api/oauth2/authorize?client_id=1089981909427306536&permissions=8&scope=bot
