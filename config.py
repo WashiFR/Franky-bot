@@ -2,7 +2,7 @@
 from collections import OrderedDict
 
 # Token du bot
-TOKEN = "MTA4OTk4MTkwOTQyNzMwNjUzNg.GDFi0D.yXsvTy5fkF_Z--OfGs6Sh2JY7cS92edhHb9Pyk"
+TOKEN = "Et bah non, t'auras pas le token de mon bot :)"
 
 # Prefix du bot
 PREFIX = "!"
