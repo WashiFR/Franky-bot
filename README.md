@@ -1,6 +1,6 @@
 # Bot Discord Franky
 
-***
+[TOC]
 
 ## Commandes disponibles
 
